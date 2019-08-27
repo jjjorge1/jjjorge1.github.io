@@ -1,0 +1,40 @@
+html{
+    font-size: 12px;
+    font-family: 'Varela Round', sans-serif;
+    background-color: #8ac37e;
+}
+
+body{
+    width: 50%;
+    margin: 0 auto;
+    background-color: #b8deb0;
+    padding: 0 20px 20px 20px;
+    border: 5px solid #3e852f;
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #5da24f;
+    text-shadow: 3px 3px 1px black;
+}
+
+img{
+    display: block;
+    width: 70%;
+    height: 50%;
+    margin: 0 auto;
+}
+
+h3{
+    font-size: 30px;
+    color: #216413;
+}
+
+p,li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
